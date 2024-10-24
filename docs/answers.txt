@@ -1,0 +1,33 @@
+1. On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+(use "git add <file>..." to include in what will be committed)
+	docs/answers.txt
+	status.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+2. 9
+ git rev-list --count HEAD
+
+3. commit 4ab1bbfb41b81123c55f28610fd759446f13c801
+Author: Arjan <arjan@Arjans-MacBook-Pro.local>
+Date:   Fri Oct 25 00:55:18 2024 +0200
+git log README.md
+
+4. Branches allow multiple developers to work, and branches allow experimentation.
+
+5. lot shows commit history and git status shows working directory and staging area status
+
+6. git log -- Vehicle.h
+
+7. git log --grep="file"
+
+8. Inheritance is once class inheriting methods of another
+Polymorphism is different tasks being conducted based on the object calling
+Encapsulation is hiding internal implementation of a class
+
+9. The dictator and lieutenants gives dictators the final say wher lieutenants pass them to dictator. Integration manager merges changes from contributors. 
+
+10. They would benefit from allowing efficient code reviews and bottlenecks.
